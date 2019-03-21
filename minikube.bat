@@ -1,1 +1,1 @@
-minikube start vm1 
+minikube start "vm 1" 
